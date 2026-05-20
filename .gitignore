@@ -1,0 +1,16 @@
+# Jupyter
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+
+# Excel temporários
+~$*.xlsm
+~$*.xlsx
+
+# Claude Code internals
+.claude/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
